@@ -1,0 +1,13 @@
+C:\Users\lurib\OneDrive\Área de Trabalho\Nova pasta (3)\POO_Personagem\bin\Debug\netcoreapp3.1\POO_Personagem.exe
+C:\Users\lurib\OneDrive\Área de Trabalho\Nova pasta (3)\POO_Personagem\bin\Debug\netcoreapp3.1\POO_Personagem.deps.json
+C:\Users\lurib\OneDrive\Área de Trabalho\Nova pasta (3)\POO_Personagem\bin\Debug\netcoreapp3.1\POO_Personagem.runtimeconfig.json
+C:\Users\lurib\OneDrive\Área de Trabalho\Nova pasta (3)\POO_Personagem\bin\Debug\netcoreapp3.1\POO_Personagem.runtimeconfig.dev.json
+C:\Users\lurib\OneDrive\Área de Trabalho\Nova pasta (3)\POO_Personagem\bin\Debug\netcoreapp3.1\POO_Personagem.dll
+C:\Users\lurib\OneDrive\Área de Trabalho\Nova pasta (3)\POO_Personagem\bin\Debug\netcoreapp3.1\POO_Personagem.pdb
+C:\Users\lurib\OneDrive\Área de Trabalho\Nova pasta (3)\POO_Personagem\obj\Debug\netcoreapp3.1\POO_Personagem.csprojAssemblyReference.cache
+C:\Users\lurib\OneDrive\Área de Trabalho\Nova pasta (3)\POO_Personagem\obj\Debug\netcoreapp3.1\POO_Personagem.AssemblyInfoInputs.cache
+C:\Users\lurib\OneDrive\Área de Trabalho\Nova pasta (3)\POO_Personagem\obj\Debug\netcoreapp3.1\POO_Personagem.AssemblyInfo.cs
+C:\Users\lurib\OneDrive\Área de Trabalho\Nova pasta (3)\POO_Personagem\obj\Debug\netcoreapp3.1\POO_Personagem.csproj.CoreCompileInputs.cache
+C:\Users\lurib\OneDrive\Área de Trabalho\Nova pasta (3)\POO_Personagem\obj\Debug\netcoreapp3.1\POO_Personagem.dll
+C:\Users\lurib\OneDrive\Área de Trabalho\Nova pasta (3)\POO_Personagem\obj\Debug\netcoreapp3.1\POO_Personagem.pdb
+C:\Users\lurib\OneDrive\Área de Trabalho\Nova pasta (3)\POO_Personagem\obj\Debug\netcoreapp3.1\POO_Personagem.genruntimeconfig.cache
